@@ -1,0 +1,21 @@
+@import url("../fonts/font.css");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.pages {
+  background-color: rgba(53, 54, 56, 1);
+  width: 100%;
+  min-height: 100vh;
+}
+
+.main-content {
+  font-family: "Gotham Pro", sans-serif;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 21px;
+  max-width: 775px;
+  margin: 0 auto;
+}
