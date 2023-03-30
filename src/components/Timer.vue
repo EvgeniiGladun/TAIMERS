@@ -19,7 +19,7 @@ export default {
 <template>
   <div class="timer">
     <div class="timer__time">
-      <div class="timer__time-hour timer__time-invise-hour">
+      <div class="timer__time-hr timer__time-invise-hour">
         <span class="timer__time-figure timer__time-hour">{{ timer_data.hour }}</span>
         <span class="timer__time-colon">:</span>
       </div>
